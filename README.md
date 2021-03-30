@@ -5,7 +5,7 @@ https://code.markedmondson.me/edmondlytica/
 
 ## Dependencies
 
-This is the browser tag to be imported into GTM Browser Side.  It works in conjunction with the Edmonlytica GTM Server Side Client and the Edmonlytica GTM Server Side Tag, which need to be installed as well to work.
+This is the browser tag to be imported into GTM Browser Side.  It works in conjunction with the [Edmonlytica GTM Server Side Client](https://github.com/MarkEdmondson1234/edmonlytica-server-side-client) and the [Edmonlytica GTM Server Side Tag](https://github.com/MarkEdmondson1234/edmonlytica-server-side-tag), which need to be installed as well to work.
 
 ## Functionality
 
