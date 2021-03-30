@@ -15,5 +15,5 @@
 homepage: "https://code.markedmondson.me/"
 documentation: "https://code.markedmondson.me/edmondlytica/"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 859202a91a2ced49d24a15a7fbc29543b5aa189b
     changeNotes: Initial Version
